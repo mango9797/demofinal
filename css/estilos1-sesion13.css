@@ -1,0 +1,19 @@
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    list-style: none;
+    margin: 0 20px;
+}
+
+ul {
+    background-color: rgb(156, 194, 154);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    margin: 40px 0;
+}
